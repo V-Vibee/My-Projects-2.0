@@ -23,6 +23,11 @@ Time series forecasting means to forecast or to predict the future value over a 
 3. Autocorrelation is the similarity between observations as a function of the time lag between them. Plotting autocorrelated data yields a graph similar to a sinusoidal function.
 
 
+**Limitations**
+Time series analysis is restricted to time-dependent data. It's not suitable for cross-sectional or purely categorical data. Noise Introduction: Techniques like differencing can introduce additional noise into the data, which may obscure fundamental patterns or trends
+Also sometimes we may not be able to predict sudden changes in market trends or price movements, as such they can give false signals. Moving averages are based on historical data, and they can be affected by sudden price spikes or dips or in some case uncertainity.
+
+
 
 | Sl.No| Topic| Subtopic| Link|
 |-|-|-|-|
