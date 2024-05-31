@@ -9,6 +9,9 @@ What sets time series data apart from other data is that the analysis can show h
 **Usage:**
 Time series analysis is used for non-stationary data—things that are constantly fluctuating over time or are affected by time. Industries like finance, retail, and economics frequently use time series analysis because currency and sales are always changing.Time series helps turn raw data into insights, companies can use this to improve performance and track historical outcomes. For example, retailers might look at seasonal sales patterns to adapt their inventory and marketing. Energy companies could use consumption trends to optimize their production schedule.
 
+**What is it used for..?**
+Time series forecasting means to forecast or to predict the future value over a period of time. It entails developing models based on previous data and applying them to make observations and guide future strategic decisions.
+
 | Sl.No| Topic| Subtopic| Link|
 |-|-|-|-|
 |1| Introduction | A Brief |[ Explanation video link]()
