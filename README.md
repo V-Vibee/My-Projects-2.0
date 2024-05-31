@@ -5,4 +5,4 @@ What sets time series data apart from other data is that the analysis can show h
 
 | Sl.No| Topic| Subtopic| Link|
 |-|-|-|-|
-|1| Introduction | [ Explanation video link]()
+|1| Introduction | PDQ |[ Explanation video link]()
