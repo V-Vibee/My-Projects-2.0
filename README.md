@@ -33,6 +33,6 @@ Also sometimes we may not be able to predict sudden changes in market trends or 
 
 | Sl.No| Topic| Subtopic| Link|
 |-|-|-|-|
-|1| Introduction | A Brief |[ Explanation video link]()
+|1| Introduction | Brief |[ - ]()
 |2| Time series Analysis: ITC | ARIMA |[ Explanation video link]()
 |3| Time series Analysis: HDFC | ARCH/ GARCH |[ Explanation video link]()
