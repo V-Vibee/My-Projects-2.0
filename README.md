@@ -7,7 +7,7 @@ Time series analysis is a specific way of analyzing a sequence of data points co
 What sets time series data apart from other data is that the analysis can show how variables change over time. In other words, time is a crucial variable because it shows how the data adjusts over the course of the data points as well as the final results. It provides an additional source of information and a set order of dependencies between the data.
 
 **Usage:**
-Time series analysis is used for non-stationary data—things that are constantly fluctuating over time or are affected by time. Industries like finance, retail, and economics frequently use time series analysis because currency and sales are always changing.
+Time series analysis is used for non-stationary data—things that are constantly fluctuating over time or are affected by time. Industries like finance, retail, and economics frequently use time series analysis because currency and sales are always changing.Time series helps turn raw data into insights, companies can use this to improve performance and track historical outcomes. For example, retailers might look at seasonal sales patterns to adapt their inventory and marketing. Energy companies could use consumption trends to optimize their production schedule.
 
 | Sl.No| Topic| Subtopic| Link|
 |-|-|-|-|
