@@ -1,4 +1,5 @@
 # Time Series Analysis
+![rsz_11time-series-analysis](https://github.com/V-Vibee/MY-Projects-2.0/assets/91024678/ce2a25e7-245f-4c79-a743-dc217fa54843)
 
 
 
