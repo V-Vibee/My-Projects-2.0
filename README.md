@@ -12,6 +12,15 @@ Time series analysis is used for non-stationary data—things that are constantl
 **What is it used for..?**
 Time series forecasting means to forecast or to predict the future value over a period of time. It entails developing models based on previous data and applying them to make observations and guide future strategic decisions.
 
+
+**Certain Aspects of Time Series:**
+
+1. Stationarity is a crucial aspect of a time series. A time series is determined to be stationary when its statistical properties such as the average (mean) and the variance do not alter over time. It has a constant variance and mean, and the covariance is separate from time.
+2. Seasonality refers to periodic fluctuations. For example, if you consider electricity consumption, it is typically high during the day and lowers during the night. In the case of shopping patterns, online sales spike during the holidays before slowing down and dropping.
+3. Autocorrelation is the similarity between observations as a function of the time lag between them. Plotting autocorrelated data yields a graph similar to a sinusoidal function.
+
+
+
 | Sl.No| Topic| Subtopic| Link|
 |-|-|-|-|
 |1| Introduction | A Brief |[ Explanation video link]()
