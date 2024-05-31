@@ -25,7 +25,9 @@ Time series forecasting means to forecast or to predict the future value over a 
 
 **Limitations**
 Time series analysis is restricted to time-dependent data. It's not suitable for cross-sectional or purely categorical data. Noise Introduction: Techniques like differencing can introduce additional noise into the data, which may obscure fundamental patterns or trends
-Also sometimes we may not be able to predict sudden changes in market trends or price movements, as such they can give false signals. Moving averages are based on historical data, and they can be affected by sudden price spikes or dips or in some case uncertainity.
+Also sometimes we may not be able to predict sudden changes in market trends or price movements, as such they can give false signals. Moving averages are based on historical data, and they can be affected by sudden price spikes or dips or in some case uncertainity
+
+
 
 
 
