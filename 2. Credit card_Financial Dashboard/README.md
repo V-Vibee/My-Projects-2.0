@@ -30,6 +30,6 @@ Findings:
 | Sl.No| Topic| Method| Link|
 |-|-|-|-|
 |1| Introduction | Brief |[ ](-)
-|2| Manage data | Postgre SQL |[SQL File ](-)
+|2| Manage data | Postgre SQL |[SQL File ](https://github.com/V-Vibee/My-Projects-2.0/blob/main/2.%20Credit%20card_Financial%20Dashboard/SQL%20Query%20-%20Financial%20Dashboard%20Data.sql)
 |3| Credit Card Transaction | Power Bi |[ Dashboard link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/1.0%20ARIMA/Stock_Price_Prediction_Project_Time_Series.ipynb)
 
