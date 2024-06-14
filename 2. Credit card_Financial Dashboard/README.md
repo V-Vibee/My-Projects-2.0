@@ -2,16 +2,23 @@
 
 
 
-**Title : Credit Card Weekly Status Report.**
+**Title :** Credit Card Weekly Status Report.
+
 
 **Project Objectice/ Introduction** : Building a comprehensive credit card weekly dashboard which provides real-time data insights into its various key performance, metrics and trends, thus enabling stakeholders to monitor and analyze credit card effeciently.
 
+
+
 **Data Source**: Kaggle
+
+
 
 **What is it used for..?:** To check the Overall performance of the credit card and its credibility chack among customers.
 
 
+
 **Tools Used:** Excel, Postgre SQL & Power-BI
+
 
 
 **Findings:**
