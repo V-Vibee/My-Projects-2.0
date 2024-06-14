@@ -3,24 +3,33 @@
 
 
 
-A Brief: 
+Title : Credit Card Weekly Status Report.
 
-Introduction: 
+Project Objectice/ Introduction : Building a comprehensive credit card weekly dashboard which provides real-time data insights into its various key performance, metrics and trends, thus enabling stakeholders to monitor and analyze credit card effeciently.
 
-What is it used for..? 
+Data Source: Kaggle
+
+What is it used for..? To check the Overall performance of the credit card and its credibility chack among customers.
 
 
-Tools Used:
+Tools Used: Excel, Postgre SQL & Power-BI
 
 
 Findings:
-
+1. Revenue increased by 28.8% and stands at 55.3 M.
+2. Total interest generated during the tenure were 8M.
+3. Male customers seen to be contributing more in revenue i.e, 31M & female at 26M.
+4. Blue & Silver credit were seen to contribute 93% of overall Tranactions.
+5. TX, NY & CA is contributing to 68%.
+6. Overall Delinquent rate (People who defaulted the payment) is 6.06%.
+7. Overall Activation rate is 57.5%.
+    
 
 
 
 | Sl.No| Topic| Method| Link|
 |-|-|-|-|
 |1| Introduction | Brief |[ ](-)
-|2| Manage data | Postgre SQL |[ ](-)
-|3| Credit Card Transaction | Power Bi |[ Explanation link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/1.0%20ARIMA/Stock_Price_Prediction_Project_Time_Series.ipynb)
-|3| Time series Analysis: HDFC | ARCH/ GARCH |[ Explanation link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/1.1%20ARCH_GARCH/Garch_Model__Time_Seriespynb.ipynb)
+|2| Manage data | Postgre SQL |[SQL File ](-)
+|3| Credit Card Transaction | Power Bi |[ Dashboard link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/1.0%20ARIMA/Stock_Price_Prediction_Project_Time_Series.ipynb)
+
