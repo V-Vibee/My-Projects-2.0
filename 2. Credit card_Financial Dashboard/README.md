@@ -13,7 +13,7 @@
 
 
 
-**What is it used for..?:** To check the Overall performance of the credit card and its credibility chack among customers.
+**Used to..?:** To check the Overall performance of the credit card and its credibility check among customers.
 
 
 
