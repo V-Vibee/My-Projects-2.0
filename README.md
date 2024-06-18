@@ -35,6 +35,8 @@ Algorithms used here for Churn Prediction Models are.
 5. XG Boost.
    
 **Methodology:**
+- Data Preprocessing/ Cleaning.
+- Exploratory Data Analysis.
 - Handling Categorical data using One hot encoding.
 - Handling imbalanced data- using SMOTE.
 - Model Building , checking accuracy score as well as classifictaion nreport to know models Precision and Reacall.
