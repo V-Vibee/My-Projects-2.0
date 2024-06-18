@@ -44,7 +44,7 @@ Algorithms used here for Churn Prediction Models are.
 - Cross check prediction using GUI window.
 
 
- **Best Model Selection** 
+ **Best Model Selection Criterion** 
  
 ![Screenshot (10)](https://github.com/V-Vibee/My-Projects-2.0/assets/91024678/1163694b-03bc-4cd1-aea8-e1d50773dab9)
 
