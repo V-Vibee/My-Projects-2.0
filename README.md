@@ -26,9 +26,22 @@ The way to maximize a company’s resources is often by increasing revenue from 
 
 
 
-**Limitations**
+**Algorithms for Churn Prediction Models:**
+Algorithms used here for Churn Prediction Models are.
+1. Linear Regression.
+2. Support Vectoir Machine.
+3. Decison Tree.
+4. Random Forest.
+5. XG Boost.
+   
+**Methodology:**
+- Handling Categorical data using One hot encoding.
+- Handling imbalanced data- using SMOTE.
+- Model Building , checking accuracy score as well as classifictaion nreport to know models Precision and Reacall.
+- Final selecting the model and save as Joblib file.
+- Cross check prediction using GUI window.
 
-
+  
 
 
 
