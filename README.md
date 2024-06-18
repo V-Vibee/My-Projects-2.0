@@ -31,8 +31,9 @@ Algorithms used here for Churn Prediction Models are.
 1. Linear Regression.
 2. Support Vectoir Machine.
 3. Decison Tree.
-4. Random Forest.
-5. XG Boost.
+4. KNN
+5. Random Forest.
+6. XG Boost.
    
 **Methodology:**
 - Data Preprocessing/ Cleaning.
