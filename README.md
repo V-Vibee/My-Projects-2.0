@@ -46,7 +46,10 @@ Algorithms used here for Churn Prediction Models are.
 
  **Best Model Selection** 
  
- ![Screenshot (10)](https://github.com/V-Vibee/My-Projects-2.0/assets/91024678/62f77c1b-f34d-4747-b5ed-17cc1a29b156)
+![Screenshot (10)](https://github.com/V-Vibee/My-Projects-2.0/assets/91024678/1163694b-03bc-4cd1-aea8-e1d50773dab9)
+
+
+Finally Regression model was selected, since it showed better result
 
 
 
