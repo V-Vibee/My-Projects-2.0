@@ -19,7 +19,11 @@ The way to maximize a company’s resources is often by increasing revenue from 
 
 
 
-**Certain Aspects of Time Series:**
+**Benefits of Analyzing Customer Churn Prediction:**
+1. Improve the customer experience.
+2. Optimize your products and services.
+3. Customer retention.
+
 
 
 **Limitations**
