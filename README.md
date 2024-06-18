@@ -49,7 +49,7 @@ Algorithms used here for Churn Prediction Models are.
 ![Screenshot (10)](https://github.com/V-Vibee/My-Projects-2.0/assets/91024678/1163694b-03bc-4cd1-aea8-e1d50773dab9)
 
 
-Finally Regression model was selected, since it showed better result
+**Finally Random Forest model was selected, since it showed better result and was accurate by 86 %**
 
 
 
