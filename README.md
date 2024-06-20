@@ -12,11 +12,16 @@
 
 **Introduction:** This era belongs to technology where technology becomes a basic part of our lives whether in business or home which requires connectivity with the internet and it is a big challenge to secure these units from being a sufferer of cyber-crime, Hence credit card plays a crucial role here, lately it has been found that more persons are getting victimized and suffer a lot, thus Credit card fraud is a form of identity theft where criminals make purchases or obtain cash advances in your name. This can be with an existing account, via theft of your physical credit card or your account numbers and PINs, or by opening new credit card accounts in your name.  Unfortunately, dealing with credit card fraud has other unexpected costs, including time and aggravation. It can take months for credit card issuers to investigate fraud, and lingering issues can result in damage to your credit, which also takes time to remedy. Hence these need to be tackled internally first to save customers from being getting cheated.
 
-**Why is Analyzing Customer Churn Prediction Important..?** 
+**What can be done Beforehand..?** 
+- Notify Your Credit Card Issuer.
+-  Place a Fraud Alert on Customers Credit Report.
+-  Report the Credit Card Fraud to Law Enforcement
+-  Contact the Credit Bureau.
+-  Learn More About Cybersecurity and Identity Fraud.
 
 **Data Source:**
 
-**What is it used for..?** 
+**What is it used for..?** To alert Customers timely and before its occurence and enhance double security check  with customers in case of suspicious tranasctions. 
 
 
 **Benefits of Analyzing Customer Churn Prediction:**
