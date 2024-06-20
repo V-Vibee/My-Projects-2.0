@@ -69,5 +69,5 @@ Algorithms used here for Churn Prediction Models are.
 | Sl.No| Topic| Method| Link|
 |-|-|-|-|
 |1| Introduction | Brief |[ ](-)
-|2| Credit Card Fraud Detection| ML Models |[ Explanation link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/3.%20Bank%20Customer%20Churn/Bank_customer_churn_dataset.ipynb)
+|2| Credit Card Fraud Detection| ML Models |[ Explanation link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/4.%20Credit%20Card%20Fraud%20Detection/credit-card-fraud-detection-vipin.ipynb)
 |3| ROC Explanation | GUI Window |[ GUI link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/3.%20Bank%20Customer%20Churn/combined.jpg)
