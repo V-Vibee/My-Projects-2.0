@@ -46,6 +46,7 @@ Algorithms used here for Churn Prediction Models are.
 - Data Scaling & Feature engineering
 - Handling imbalanced data- using SMOTE.
 - Build Model, checked accuracy score but we cannot rely on it since fraudulent activities are very minute hence we need to rely on Precision, Reacall and F1 score report to get more efficiency.
+- Evaluating ROC Curve
 
 
  
