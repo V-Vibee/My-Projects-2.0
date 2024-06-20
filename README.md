@@ -2,7 +2,8 @@
 
 
 
-![vista-superior-candado-tarjeta-credito-contrasena-1000x665](https://github.com/V-Vibee/My-Projects-2.0/assets/91024678/f80aec13-369f-4ecf-a4a0-02fcac820bed)
+![vista-superior-candado-tarjeta-credito-contrasena-1000x665](https://github.com/V-Vibee/My-Projects-2.0/assets/91024678/07d9e375-5714-4920-8223-fd3ef0982354)
+
 
 
 
