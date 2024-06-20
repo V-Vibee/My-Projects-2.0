@@ -1,4 +1,4 @@
- # Credit Card Fraud Detection: A Binary Classification 
+ # Credit Card Fraud Detection: A Binary Classification Problem
 
 
 
