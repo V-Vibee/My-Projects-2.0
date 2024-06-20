@@ -46,6 +46,15 @@ Algorithms used here for Churn Prediction Models are.
 **Finally Random Forest model was selected, since it showed better result and was accurate by 86 %**
 
 
+**Tips to avoid Credit Card Fraud:**
+- Review statements regularly/ Check your credit report.
+- Be vigilant online.
+- Watch out for phone scams.
+- Secure your physical cards.
+- Enroll in credit monitoring. 
+
+
+
 
 
 | Sl.No| Topic| Method| Link|
