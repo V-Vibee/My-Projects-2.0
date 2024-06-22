@@ -1,35 +1,49 @@
-Introduction: 
 
-What can be done Beforehand..?
+**Introduction:** 
 
+**What can be done Beforehand..?** 
 
+   
 
-What is it used for..? 
+**Data Source:** https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-Benefits:
+**What is it used for..?**
 
-
-Methodology:
-
-Data Preprocessing/ Cleaning.
-Exploratory Data Analysis.
-Data Scaling & Feature engineering
-Handling imbalanced data- using SMOTE.
-Build Model, checked accuracy score but we cannot rely on it since fraudulent activities are very minute hence we need to rely on Precision, Reacall and F1 score report to get more efficiency.
-Evaluating ROC Curve
-Finally Random Forest model was selected, since it showed better result and was accurate by 99.99%
-
-Tips to avoid Credit Card Fraud:
-
-Review statements regularly/ Check your credit report.
-Be vigilant online.
-Watch out for phone scams.
-Secure your physical cards.
-Enroll in credit monitoring.
+**Benefits:**
 
 
 
-Sl.No	Topic	Method	Link
-1	Introduction	Brief	
-2	Credit Card Fraud Detection	ML Models	Explanation link
-3	ROC Explanation	PDF	PDF link
+
+
+**Algorithms for Churn Prediction Models:**
+Algorithms used here for Churn Prediction Models are.
+1. Linear Regression.
+2. Decison Tree.
+3. Random Forest.
+4. XG Boost.
+   
+**Methodology:**
+- Data Preprocessing/ Cleaning.
+- Exploratory Data Analysis.
+- Data Scaling & Feature engineering
+- H
+
+
+ 
+
+
+**Finally Random Forest model was selected, since it showed better result and was accurate by 99.99%**
+
+
+**Tips to avoid Credit Card Fraud:**
+
+
+
+
+
+
+| Sl.No| Topic| Method| Link|
+|-|-|-|-|
+|1| Introduction | Brief |[ ](-)
+|2| Credit Card Fraud Detection| ML Models |[ Explanation link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/4.%20Credit%20Card%20Fraud%20Detection/credit-card-fraud-detection-vipin.ipynb)
+|3| ROC Explanation | PDF |[ PDF link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/4.%20Credit%20Card%20Fraud%20Detection/ROC%20indepth.pdf)
