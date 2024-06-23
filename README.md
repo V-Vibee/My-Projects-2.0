@@ -3,7 +3,8 @@
 ![Customer Segmentation Analysis](https://github.com/V-Vibee/My-Projects-2.0/assets/91024678/4ea008c4-6679-4edd-8521-5583b27925e8)
 **Introduction:** 
 
-**What can be done Beforehand..?** 
+**Problem Statement:**
+Here the owner of the mall is trying to understand the customerswho are likely to converted based on footfall & other factors who tends to spend more [Target Customers] Here we are trying to analyse the customers and segment them,so that it helps the marketing team to plan strategies accordingly.
 
    
 
