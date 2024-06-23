@@ -1,4 +1,4 @@
-**Mall Customer Segmentation Analysis**
+**Mall Customer Segmentation: Clustering & Analysis**
 
 ![Customer Segmentation Analysis](https://github.com/V-Vibee/My-Projects-2.0/assets/91024678/4ea008c4-6679-4edd-8521-5583b27925e8)
 **Introduction:** 
