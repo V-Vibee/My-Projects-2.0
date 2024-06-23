@@ -42,5 +42,5 @@ Algorithms used here for Churn Prediction Models are.
 | Sl.No| Topic| Method| Link|
 |-|-|-|-|
 |1| Introduction | Brief |[ ](-)
-|2| Customer Segmentation/ Clustering ML | KMeans |[ Explanation link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/4.%20Credit%20Card%20Fraud%20Detection/credit-card-fraud-detection-vipin.ipynb)
+|2| Customer Segmentation/ Clustering  | KMeans |[ Explanation link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/4.%20Credit%20Card%20Fraud%20Detection/credit-card-fraud-detection-vipin.ipynb)
 |3| ROC Explanation | PDF |[ PDF link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/4.%20Credit%20Card%20Fraud%20Detection/ROC%20indepth.pdf)
