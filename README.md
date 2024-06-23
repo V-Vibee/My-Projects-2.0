@@ -25,25 +25,15 @@ Here the owner of the mall is trying to understand the customerswho are likely t
 
 
 
-**Algorithms for Churn Prediction Models:**
+**Algorithms for Customer Segmentation:**
 Algorithms used here for Churn Prediction Models are.
 1. KMeans.
    
 **Methodology:**
 - Data Preprocessing/ Cleaning.
 - Exploratory Data Analysis.
-- 
-- 
-
-
- 
-
-
-**Finally Random Forest model was selected, since it showed better result and was accurate by 99.99%**
-
-
-**Tips to avoid Credit Card Fraud:**
-
+- Plotting WSS Graph and finding its centroid via optimal Elbow point.
+  
 
 
 
@@ -52,5 +42,5 @@ Algorithms used here for Churn Prediction Models are.
 | Sl.No| Topic| Method| Link|
 |-|-|-|-|
 |1| Introduction | Brief |[ ](-)
-|2| Credit Card Fraud Detection| ML Models |[ Explanation link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/4.%20Credit%20Card%20Fraud%20Detection/credit-card-fraud-detection-vipin.ipynb)
+|2| Customer Segmentation/ Clustering ML | KMeans |[ Explanation link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/4.%20Credit%20Card%20Fraud%20Detection/credit-card-fraud-detection-vipin.ipynb)
 |3| ROC Explanation | PDF |[ PDF link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/4.%20Credit%20Card%20Fraud%20Detection/ROC%20indepth.pdf)
