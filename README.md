@@ -14,9 +14,12 @@ Here the owner of the mall is trying to understand the customerswho are likely t
 
 **Data Source:** https://www.kaggle.com/code/gadigevishalsai/mall-customer-segmentation-clustering-analysis/input
 
-**What is it used for..?**
 
-**Benefits:**
+
+**Why is it being used ..?**
+1- How to achieve customer segmentation using machine learning algorithm (KMeans Clustering) in Python in simplest way.
+2- Who are your target customers with whom you can start marketing strategy [easy to converge]
+3- How the marketing strategy works in real world.
 
 
 
@@ -24,16 +27,13 @@ Here the owner of the mall is trying to understand the customerswho are likely t
 
 **Algorithms for Churn Prediction Models:**
 Algorithms used here for Churn Prediction Models are.
-1. Linear Regression.
-2. Decison Tree.
-3. Random Forest.
-4. XG Boost.
+1. KMeans.
    
 **Methodology:**
 - Data Preprocessing/ Cleaning.
 - Exploratory Data Analysis.
-- Data Scaling & Feature engineering
-- H
+- 
+- 
 
 
  
