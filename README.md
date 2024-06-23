@@ -1,14 +1,18 @@
 **Mall Customer Segmentation: Clustering & Analysis**
 
 ![Customer Segmentation Analysis](https://github.com/V-Vibee/My-Projects-2.0/assets/91024678/4ea008c4-6679-4edd-8521-5583b27925e8)
-**Introduction:** 
+
+
+**Context:** 
+This data set is to learn the customer segmentation concepts , also known as market basket analysis . It is demonstrated by using unsupervised ML technique (KMeans Clustering Algorithm) in the simplest form.
+
 
 **Problem Statement:**
 Here the owner of the mall is trying to understand the customerswho are likely to converted based on footfall & other factors who tends to spend more [Target Customers] Here we are trying to analyse the customers and segment them,so that it helps the marketing team to plan strategies accordingly.
 
    
 
-**Data Source:** https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+**Data Source:** https://www.kaggle.com/code/gadigevishalsai/mall-customer-segmentation-clustering-analysis/input
 
 **What is it used for..?**
 
