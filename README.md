@@ -61,5 +61,14 @@ For this i have choosed Random Forest model to precheck the accuracy in GUI to s
 
 
 
+| Sl.No| Topic| Method| Link|
+|-|-|-|-|
+|1| Introduction | Brief |[ ](-)
+|2| Bank Churn Customer Analysis: Classification | ML Models |[ Explanation link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/3.%20Bank%20Customer%20Churn/Bank_customer_churn_dataset.ipynb)
+|3| Graphical User Interface- Using Joblib | GUI Window |[ GUI link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/3.%20Bank%20Customer%20Churn/combined.jpg)
+
+
+
+
 
 
