@@ -1,6 +1,6 @@
  # Bank Customer Churn Analysis: Classification Problem
 
-![Understanding Customer Churn](https://github.com/V-Vibee/My-Projects-2.0/assets/91024678/e269c2ee-8fdd-4411-8041-9293ea784c76)
+![Sentiment-Analysis-Call-Center-1-1024x538](https://github.com/V-Vibee/My-Projects-2.0/assets/91024678/62198b7a-5b52-42e9-97ad-39efbf974eed)
 
 
 
