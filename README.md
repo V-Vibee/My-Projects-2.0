@@ -68,7 +68,7 @@ For this i have choosed Random Forest model to precheck the accuracy in GUI to s
 |-|-|-|-|
 |1| Introduction | Brief |[ ](-)
 |2| Customer Sentiment Analysis: A classification Problem | ML Models |[ Explanation link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/6.%20Customer%20Sentiment%20Analysis/Customer_review_Sentiment_Analysis.ipynb)
-|3| Graphical User Interface- Using Joblib | GUI Window |[ GUI link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/3.%20Bank%20Customer%20Churn/combined.jpg)
+|3| Graphical User Interface- Using Joblib | GUI Window |[ GUI link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/6.%20Customer%20Sentiment%20Analysis/MixCollage-28-Jun-2024-10-52-PM-2156.jpg)
 
 
 
