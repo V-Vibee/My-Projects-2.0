@@ -9,7 +9,7 @@
 Customer sentiment analysis is a powerful tool that leverages NLP and machine learning techniques to interpret and classify subjective information from textual data. By analyzing customer feedback, such as reviews, social media posts, or survey responses, sentiment analysis aims to determine the emotional tone behind the text. This can help businesses understand customer opinions, preferences, and overall satisfaction. here we are going to check the sentiment of customers, who have rated a restaurant after dining.
 
 
-**Source:** https://www.kaggle.com/datasets/vigneshwarsofficial/reviews
+**Source:** Kaggle: 'https://www.kaggle.com/datasets/vigneshwarsofficial/reviews'
 
 **Why is Analyzing Customer Sentiment is Important..?** 
 
