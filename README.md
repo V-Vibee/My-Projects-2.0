@@ -5,21 +5,22 @@
 
 
 
-**Introduction:**Customer sentiment analysis is a powerful tool that leverages NLP and machine learning techniques to interpret and classify subjective information from textual data. By analyzing customer feedback, such as reviews, social media posts, or survey responses, sentiment analysis aims to determine the emotional tone behind the text. This can help businesses understand customer opinions, preferences, and overall satisfaction.
+**Introduction:**
+Customer sentiment analysis is a powerful tool that leverages NLP and machine learning techniques to interpret and classify subjective information from textual data. By analyzing customer feedback, such as reviews, social media posts, or survey responses, sentiment analysis aims to determine the emotional tone behind the text. This can help businesses understand customer opinions, preferences, and overall satisfaction.
 
 **Why is Analyzing Customer Sentiment is Important..?** 
 
 Since it provides businesses with valuable insights that can significantly impact their strategies, operations, and overall success. Here are some of the key factors.
--Improving Customer Experience.
--Enhancing Product and Service Quality.
--Building Customer Loyalty
--Proactive Issue Resolution.
--Data-Driven Decision Making.
--Competitive Advantage.
--Optimizing Marketing Strategies
--Identifying Market Trends
--Enhancing Social Media Engagement.
--Boosting Sales and Revenue
+- Improving Customer Experience.
+- Enhancing Product and Service Quality.
+- Building Customer Loyalty
+- Proactive Issue Resolution.
+- Data-Driven Decision Making.
+- Competitive Advantage.
+- Optimizing Marketing Strategies
+- Identifying Market Trends
+- Enhancing Social Media Engagement.
+- Boosting Sales and Revenue
 -Reputation Management.
 -Personalizing Customer Interactions
 
