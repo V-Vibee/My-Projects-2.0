@@ -1,4 +1,4 @@
- # Customer Sentiment Analysis of a Restaurant: Classification Problem
+ # Customer Sentiment Analysis: Classification Problem
 
 ![Sentiment-Analysis-Call-Center-1-1024x538](https://github.com/V-Vibee/My-Projects-2.0/assets/91024678/62198b7a-5b52-42e9-97ad-39efbf974eed)
 
