@@ -11,7 +11,7 @@ Employee turnover refers to the rate at which employees leave a company and are 
 
 **Source:** 
 
-Kaggle: 'https://www.kaggle.com/datasets/vigneshwarsofficial/reviews'
+Kaggle: '[https://www.kaggle.com/datasets/vigneshwarsofficial/reviews](https://www.kaggle.com/datasets/ksbmishra/employeeturnoverprediction)'
 
 **Why is Analyzing Customer Sentiment is Important..?** 
 
