@@ -13,21 +13,16 @@ Employee turnover refers to the rate at which employees leave a company and are 
 
 Kaggle: '[https://www.kaggle.com/datasets/vigneshwarsofficial/reviews](https://www.kaggle.com/datasets/ksbmishra/employeeturnoverprediction)'
 
-**Why is Analyzing Customer Sentiment is Important..?** 
+**Why is Analyzing Employee turnover so Important considering the latest developments across industry/companies..?** 
 
-Since it provides businesses with valuable insights that can significantly impact their strategies, operations, and overall success. Here are some of the key factors.
-- Improving Customer Experience.
-- Enhancing Product and Service Quality.
-- Building Customer Loyalty
-- Proactive Issue Resolution.
-- Data-Driven Decision Making.
-- Competitive Advantage.
-- Optimizing Marketing Strategies
-- Identifying Market Trends
-- Enhancing Social Media Engagement.
-- Boosting Sales and Revenue
--Reputation Management.
--Personalizing Customer Interactions
+Understanding employee turnover is so crucial for employers because of the following reasons:
+
+1. Cost Management: High turnover can lead to increased recruitment and training costs for a company and can induce a huge cost.
+2. Productivity: Frequent turnover can disrupt team dynamics and decrease productivity of overall staffs.
+3. Employee Morale: High turnover can affect remaining employees’ morale and engagement.
+4. Company Culture: Turnover rates can indicate issues within the workplace culture which is not at all a gud scenario.
+5. Retention Strategies: Identifying turnover causes can help improve retention strategies and employee satisfaction.
+By analyzing turnover, employers can enhance employee experience and business outcomes.
 
 
 
