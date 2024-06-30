@@ -6,7 +6,7 @@
 
 
 **Introduction:**
-Customer sentiment analysis is a powerful tool that leverages NLP and machine learning techniques to interpret and classify subjective information from textual data. By analyzing customer feedback, such as reviews, social media posts, or survey responses, sentiment analysis aims to determine the emotional tone behind the text. This can help businesses understand customer opinions, preferences, and overall satisfaction. here we are going to check the sentiment of customers, who have rated a restaurant after dining.
+Employee turnover refers to the rate at which employees leave a company and are replaced by new hires. It can be voluntary (resignations) or involuntary (layoffs, terminations). High turnover can indicate issues with job satisfaction, company culture, or other factors, while low turnover often suggests a stable and positive work environment. Tracking and analyzing turnover rates can help organizations improve retention strategies and address underlying problems..
 
 
 **Source:** 
