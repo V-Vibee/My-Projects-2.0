@@ -25,17 +25,6 @@ By analyzing turnover, employers can enhance employee experience and business ou
 
 
 
-**Benefits of Analyzing Customer Sentiment:**
-1. Enhanced Customer Satisfaction.
-2. Proactive Issue Resolution
-3. Improved Product and Service Quality.
-4. Increased Customer Loyalty.
-5. Competitive Advantage.
-6. Boosted Sales and Revenue.
-7. Efficient Resource Allocation
-
-
-
 **Algorithms for Churn Prediction Models:**
 Algorithms used here for Churn Prediction Models are.
 1. Logistic Regression.
@@ -52,13 +41,12 @@ Algorithms used here for Churn Prediction Models are.
 
  **Conclusion** 
  
-Here both Random forest and SVM were showing the accuracy of of 80% hence any can be chosen from both.
-For this i have choosed Random Forest model to precheck the accuracy in GUI to see how it works**
+Here we have selected Random Forest, which shows an overall accuracy of 98.5% which is considerably better and predicts results.
 
 
 
 | Sl.No| Topic| Method| Link|
 |-|-|-|-|
 |1| Introduction | Brief |[ ](-)
-|2| Customer Sentiment Analysis: A classification Problem | ML Models |[ Explanation link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/6.%20Customer%20Sentiment%20Analysis/Customer_review_Sentiment_Analysis.ipynb)
-|3| Graphical User Interface- Using Joblib | GUI Window |[ GUI link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/6.%20Customer%20Sentiment%20Analysis/MixCollage-28-Jun-2024-10-52-PM-2156.jpg)
+|2| Employee Turnover prediction: A Real world scenario | ML Models |[ Explanation link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/6.%20Customer%20Sentiment%20Analysis/Customer_review_Sentiment_Analysis.ipynb)
+
