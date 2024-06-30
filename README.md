@@ -48,5 +48,5 @@ Here we have selected Random Forest, which shows an overall accuracy of 98.5% wh
 | Sl.No| Topic| Method| Link|
 |-|-|-|-|
 |1| Introduction | Brief |[ ](-)
-|2| Employee Turnover prediction: A Real world scenario | ML Models |[ Explanation link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/7.%20Employee%20Turnover%20Prediction/Employee_Turnover_Prediction.ipynb)
+|2| Employee Turnover prediction: A Real world scenario | ML Models |[ Explanation link](https://colab.research.google.com/drive/1ouEnvHj2NcW0-TQ4uBqc_5n5gMtykROM#scrollTo=7bLMcvlylmPf)
 
