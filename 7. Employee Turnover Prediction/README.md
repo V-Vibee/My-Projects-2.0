@@ -49,4 +49,5 @@ Here we have selected Random Forest, which shows an overall accuracy of 98.5% wh
 |-|-|-|-|
 |1| Introduction | Brief |[ ](-)
 |2| Employee Turnover prediction: A Real world scenario | ML Models |[ Explanation link](https://colab.research.google.com/drive/1ouEnvHj2NcW0-TQ4uBqc_5n5gMtykROM#scrollTo=7bLMcvlylmPf)
+|3| Pipeline & Compiler for ML Models | Explanation |[ link](https://machinelearningmodels.org/comprehensive-guide-to-machine-learning-pipelines/)
 
