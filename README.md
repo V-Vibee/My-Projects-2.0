@@ -14,8 +14,7 @@ Employee turnover refers to the rate at which employees leave a company and are 
 Kaggle: '[https://www.kaggle.com/datasets/vigneshwarsofficial/reviews](https://www.kaggle.com/datasets/ksbmishra/employeeturnoverprediction)'
 
 **Why is Analyzing Employee turnover so Important considering the latest developments across industry/companies..?** 
-
-Understanding employee turnover is so crucial for employers because of the following reasons:
+    Understanding employee turnover is so crucial for employers because of the following reasons:
 
 1. Cost Management: High turnover can lead to increased recruitment and training costs for a company and can induce a huge cost.
 2. Productivity: Frequent turnover can disrupt team dynamics and decrease productivity of overall staffs.
