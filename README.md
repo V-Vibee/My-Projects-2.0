@@ -1,6 +1,6 @@
  # Employee Turnover Prediction Analysis: A Real world scenario
 
-![OIP](https://github.com/V-Vibee/My-Projects-2.0/assets/91024678/e8296abd-fd84-4b0b-97ab-bbaf122ff238)
+![OIP (1)](https://github.com/V-Vibee/My-Projects-2.0/assets/91024678/ea29922d-558f-444b-a377-66ba30d0cf4e)
 
 
 
