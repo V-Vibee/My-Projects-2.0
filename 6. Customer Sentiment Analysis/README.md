@@ -42,7 +42,7 @@ Since it provides businesses with valuable insights that can significantly impac
 
 
 
-**Algorithms for Churn Prediction Models:**
+**Algorithms for Sentiment Models:**
 Algorithms used here for Churn Prediction Models are.
 1. Logistic Regression.
 2. SVM.
