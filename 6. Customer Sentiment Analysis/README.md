@@ -43,7 +43,7 @@ Since it provides businesses with valuable insights that can significantly impac
 
 
 **Algorithms for Sentiment Models:**
-Algorithms used here for Churn Prediction Models are.
+Algorithms used here are.
 1. Logistic Regression.
 2. SVM.
 3. Decison Tree.
