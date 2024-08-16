@@ -29,7 +29,7 @@ The way to maximize a company’s resources is often by increasing revenue from 
 **Algorithms for Churn Prediction Models:**
 Algorithms used here for Churn Prediction Models are.
 1. Linear Regression.
-2. Support Vectoir Machine.
+2. Support Vector Machine.
 3. Decison Tree.
 4. Random Forest.
 5. XG Boost.
