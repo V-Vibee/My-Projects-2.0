@@ -27,8 +27,8 @@ By analyzing turnover, employers can enhance employee experience and business ou
 
 **Algorithms for Churn Prediction Models:**
 Algorithms used here for Churn Prediction Models are.
-1. Logistic Regression.
-2. Random Forest.
+1. Logistic Regression
+2. Random Forest
 
    
 **Methodology:**
