@@ -1,4 +1,4 @@
- # Diabetic Prediction Analysis: A Rising Cause
+ # Diabetic Prediction: A Cause of Concern and its Analysis
 
 ![maxresdefault](https://github.com/user-attachments/assets/46102169-e1e5-4908-86f7-82a92dcf0fb4)
 
