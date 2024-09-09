@@ -68,6 +68,6 @@ Here we have selected Gradient Boost classifier, which gave an overall accuracy 
 | Sl.No| Topic| Method| Link|
 |-|-|-|-|
 |1| Introduction | Brief |[ ](-)
-|2| Diabetic Prediction: A Cause of Concern and its Analysis | ML Models |[ Explanation link](https://colab.research.google.com/drive/1ouEnvHj2NcW0-TQ4uBqc_5n5gMtykROM#scrollTo=7bLMcvlylmPf)
+|2| Diabetic Prediction: A Cause of Concern and its Analysis | ML Models |[ Explanation link](https://github.com/V-Vibee/My-Projects-2.0/blob/main/8.%20Diabetic%20Prediction/Advanced_Diabetes_Project.ipynb)
 
 
