@@ -1,4 +1,4 @@
- # Employee Turnover Prediction Analysis: A Real world scenario
+ # Diabetic Prediction Analysis: A Rising Cause
 
 ![maxresdefault](https://github.com/user-attachments/assets/46102169-e1e5-4908-86f7-82a92dcf0fb4)
 
