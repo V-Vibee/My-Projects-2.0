@@ -59,6 +59,14 @@ Algorithms used here for Churn Prediction Models are.
 - Finally selecting the model based on classification report and accuracy score.
 
 
+**Best Algorithm Scores**
+
+
+![Screenshot (677)](https://github.com/user-attachments/assets/7b3a145e-639d-490c-b9f2-3886c1ea4104)
+
+
+
+
  **Conclusion** 
  
 Here we have selected Gradient Boost classifier, which gave an overall accuracy of 91.5% which gives us more predictable Results.
