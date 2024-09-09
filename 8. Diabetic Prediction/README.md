@@ -29,25 +29,31 @@ By analyzing turnover, employers can enhance employee experience and business ou
 Algorithms used here for Churn Prediction Models are.
 1. Logistic Regression
 2. Random Forest
+3. Decision Tree
+4. KNN
+5. SVM
+6. Gradient Boost
+7. XG Boost
 
    
 **Methodology:**
 - Data Preprocessing.
 - Exploratory Data Analysis.
+- Feature Engineering.
 - Encoding both categorical as well as numerical Features.
-- Model Building using Column Transformer and Data Pipelines, Hypertuning and fitting the Models.
+- Model Building Hypertuning and using optimization algorithm for fitting the Models.
 - Finally selecting the model based on classification report and accuracy score.
 
 
  **Conclusion** 
  
-Here we have selected Random Forest, which shows an overall accuracy of 98.5% which is considerably better and predicts results.
+Here we have selected Gradient Boost classifier, which gave an overall accuracy of 91.5% which gives us more predictable Results.
 
 
 
 | Sl.No| Topic| Method| Link|
 |-|-|-|-|
 |1| Introduction | Brief |[ ](-)
-|2| Employee Turnover prediction: A Real world scenario | ML Models |[ Explanation link](https://colab.research.google.com/drive/1ouEnvHj2NcW0-TQ4uBqc_5n5gMtykROM#scrollTo=7bLMcvlylmPf)
+|2| Diabetic Prediction: A Cause of Concern and its Analysis | ML Models |[ Explanation link](https://colab.research.google.com/drive/1ouEnvHj2NcW0-TQ4uBqc_5n5gMtykROM#scrollTo=7bLMcvlylmPf)
 |3| Pipeline & Compiler for ML Models | Explanation |[ link](https://machinelearningmodels.org/comprehensive-guide-to-machine-learning-pipelines/)
 
