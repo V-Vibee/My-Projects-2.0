@@ -9,11 +9,22 @@
 Diabetic prediction is the process of estimating an individual's risk of developing diabetes, particularly type 2 diabetes, using various methods and tools. It involves analyzing data related to an individual's health, lifestyle, and genetic factors to forecast their likelihood of developing the condition. The goal here is to identify individuals at high risk for diabetes so that they can take preventive actions. Early identification and intervention can help delay or prevent the onset of diabetes, improve health outcomes, and reduce healthcare costs associated with the disease.
 
 
+
+
+
 **Source:**  Kaggle
+
+
+
+
 
 **What is the purpose..?** 
 Employing algorithms and models to analyze large datasets and identify patterns or predictors of diabetes risk. These predictive models can be based on demographic data, medical history, lifestyle factors, and lab results.
 Based on these prediction results, individuals can receive personalized recommendations for lifestyle changes, monitoring, or medical interventions to reduce their risk of developing diabetes.
+
+
+
+
   
 **Key Components:**
 
@@ -39,6 +50,8 @@ Medical Interventions: Early monitoring, medication, or other treatments to mana
 The goal of diabetic prediction is to identify individuals at high risk for diabetes so that they can take preventive actions. Early identification and intervention can help delay or prevent the onset of diabetes, improve health outcomes, and reduce healthcare costs associated with the disease.
 
 
+
+
 **Algorithms for Churn Prediction Models:**
 Algorithms used here for Churn Prediction Models are.
 1. Logistic Regression
@@ -49,6 +62,8 @@ Algorithms used here for Churn Prediction Models are.
 6. Gradient Boost
 7. XG Boost
 
+
+
    
 **Methodology:**
 - Data Preprocessing.
@@ -57,6 +72,9 @@ Algorithms used here for Churn Prediction Models are.
 - Encoding both categorical as well as numerical Features.
 - Model Building Hypertuning and using optimization algorithm for fitting the Models.
 - Finally selecting the model based on classification report and accuracy score.
+
+
+
 
 
 **Best Algorithm Scores**
