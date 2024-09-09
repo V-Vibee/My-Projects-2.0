@@ -77,7 +77,7 @@ Algorithms used here for Churn Prediction Models are.
 
 
 
-**Best Algorithm Scores**
+**Best Algorithm Scores:**
 
 
 ![Screenshot (677)](https://github.com/user-attachments/assets/7b3a145e-639d-490c-b9f2-3886c1ea4104)
