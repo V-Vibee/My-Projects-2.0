@@ -9,9 +9,7 @@
 Diabetic prediction is the process of estimating an individual's risk of developing diabetes, particularly type 2 diabetes, using various methods and tools. It involves analyzing data related to an individual's health, lifestyle, and genetic factors to forecast their likelihood of developing the condition. The goal here is to identify individuals at high risk for diabetes so that they can take preventive actions. Early identification and intervention can help delay or prevent the onset of diabetes, improve health outcomes, and reduce healthcare costs associated with the disease.
 
 
-**Source:** 
-
-Kaggle
+**Source:**  Kaggle
 
 **What is the purpose..?** 
 Employing algorithms and models to analyze large datasets and identify patterns or predictors of diabetes risk. These predictive models can be based on demographic data, medical history, lifestyle factors, and lab results.
@@ -36,7 +34,9 @@ Lifestyle Modifications: Recommendations for diet changes, increased physical ac
 Medical Interventions: Early monitoring, medication, or other treatments to manage risk factors.
 
 
-**Purpose:** The goal of diabetic prediction is to identify individuals at high risk for diabetes so that they can take preventive actions. Early identification and intervention can help delay or prevent the onset of diabetes, improve health outcomes, and reduce healthcare costs associated with the disease.
+**Purpose:** 
+
+The goal of diabetic prediction is to identify individuals at high risk for diabetes so that they can take preventive actions. Early identification and intervention can help delay or prevent the onset of diabetes, improve health outcomes, and reduce healthcare costs associated with the disease.
 
 
 **Algorithms for Churn Prediction Models:**
