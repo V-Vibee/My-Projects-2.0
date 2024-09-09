@@ -6,23 +6,37 @@
 
 
 **Introduction:**
-Employee turnover refers to the rate at which employees leave a company and are replaced by new hires. It can be voluntary (resignations) or involuntary (layoffs, terminations). High turnover can indicate issues with job satisfaction, company culture, or other factors, while low turnover often suggests a stable and positive work environment. Tracking and analyzing turnover rates can help organizations improve retention strategies and address underlying problems..
+Diabetic prediction is the process of estimating an individual's risk of developing diabetes, particularly type 2 diabetes, using various methods and tools. It involves analyzing data related to an individual's health, lifestyle, and genetic factors to forecast their likelihood of developing the condition. The goal here is to identify individuals at high risk for diabetes so that they can take preventive actions. Early identification and intervention can help delay or prevent the onset of diabetes, improve health outcomes, and reduce healthcare costs associated with the disease.
 
 
 **Source:** 
 
-Kaggle: '[https://www.kaggle.com/datasets/vigneshwarsofficial/reviews](https://www.kaggle.com/datasets/ksbmishra/employeeturnoverprediction)'
+Kaggle
 
-**Why is Analyzing Employee turnover so Important considering the latest developments across industry/companies..?** 
-    Understanding employee turnover is so crucial for employers because of the following reasons:
+**What is the purpose..?** 
+Employing algorithms and models to analyze large datasets and identify patterns or predictors of diabetes risk. These predictive models can be based on demographic data, medical history, lifestyle factors, and lab results.
+Based on these prediction results, individuals can receive personalized recommendations for lifestyle changes, monitoring, or medical interventions to reduce their risk of developing diabetes.
+  
+**Key Components:**
 
-1. Cost Management: High turnover can lead to increased recruitment and training costs for a company and can induce a huge cost.
-2. Productivity: Frequent turnover can disrupt team dynamics and decrease productivity of overall staffs.
-3. Employee Morale: High turnover can affect remaining employees’ morale and engagement.
-4. Company Culture: Turnover rates can indicate issues within the workplace culture which is not at all a gud scenario.
-5. Retention Strategies: Identifying turnover causes can help improve retention strategies and employee satisfaction.
-By analyzing turnover, employers can enhance employee experience and business outcomes.
+1. Risk Factors Identification:
 
+Personal Factors: Age, gender, family history, and ethnicity.
+Lifestyle Factors: Diet, physical activity, smoking, and alcohol consumption.
+Health Factors: Body mass index (BMI), blood pressure, and existing health conditions like hypertension or high cholesterol.
+
+2. Predictive Models:
+
+Machine Learning Algorithms: Advanced models analyze large datasets to identify patterns and predict diabetes risk based on demographic, lifestyle, and medical data.
+Statistical Models: Traditional methods, like logistic regression, can also predict risk based on input variables.
+
+3. Preventive Strategies:
+
+Lifestyle Modifications: Recommendations for diet changes, increased physical activity, and weight management.
+Medical Interventions: Early monitoring, medication, or other treatments to manage risk factors.
+
+
+**Purpose:** The goal of diabetic prediction is to identify individuals at high risk for diabetes so that they can take preventive actions. Early identification and intervention can help delay or prevent the onset of diabetes, improve health outcomes, and reduce healthcare costs associated with the disease.
 
 
 **Algorithms for Churn Prediction Models:**
@@ -55,5 +69,5 @@ Here we have selected Gradient Boost classifier, which gave an overall accuracy 
 |-|-|-|-|
 |1| Introduction | Brief |[ ](-)
 |2| Diabetic Prediction: A Cause of Concern and its Analysis | ML Models |[ Explanation link](https://colab.research.google.com/drive/1ouEnvHj2NcW0-TQ4uBqc_5n5gMtykROM#scrollTo=7bLMcvlylmPf)
-|3| Pipeline & Compiler for ML Models | Explanation |[ link](https://machinelearningmodels.org/comprehensive-guide-to-machine-learning-pipelines/)
+
 
